@@ -1,3 +1,4 @@
 This is information about mars.
 This is new info.
 We added a different line in the other copy (collaborator's repository)
+This line added to Joren's copy.
